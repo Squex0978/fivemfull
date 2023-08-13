@@ -1,6 +1,7 @@
 This installer is for FiveM Artifacts & Phpmyadmin
 
 You just had to write this command via ssh client.
+
 Use this for debian:
 
 bash <(curl -s https://raw.githubusercontent.com/Squex0978/fivemfull/main/full.sh)
