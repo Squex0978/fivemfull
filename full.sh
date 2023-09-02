@@ -71,8 +71,6 @@ echo -e "Guter Hoster: Hostet bei Hostzentrum https://discord.gg/pZjqQZqX98 http
 echo 'Sie finden ihre PHPMYADMIN zugangsdaten in ihren FTP/SFTP zugang in /root'
 
 
-apt update && apt upgrade -y
-
 apt install xf tar -y
 
 mkdir -p /home/FiveM/server
